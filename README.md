@@ -4,6 +4,8 @@
 
 The app was developed with SwiftUI and Combine. It also allowed for push notifications using Firebase, external repositories were used as well through Cocoapods.
 I was the sole mobile developer of the app for iOS, iPad and Mac.
+The app had hundreds of paying users and gained users 6 figures worth of profit combined.
+Not available on the appstore since it was distributed through testflight.
 
 
 ##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, Push Notifications, Combine, API for user credentials.
