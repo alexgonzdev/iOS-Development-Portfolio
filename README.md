@@ -9,6 +9,6 @@ I was the sole mobile developer of the app for iOS, iPad and Mac.
 ##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, Push Notifications, Combine, API for user credentials.
 ##### 🚀Platform: 📱iOS, iPad, Mac.
 <p align="center">
-<a href="https://alienios.com/" target="_blank"><img src="https://alienios.com/public/img/rightPhone.png" width="900" title="Alien Raffles"></a>
+<a href="https://alienios.com/" target="_blank"><img src="https://alienios.com/public/img/rightPhone.png" width="300" height="300" title="Alien Raffles"></a>
 </p>
 
