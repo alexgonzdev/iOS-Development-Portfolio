@@ -4,7 +4,7 @@ This is the app I'm currently building as a personal project, I'm planning on pu
 
 The app function is to show news, live scores and standings amongst other things. It's focused on the MLB and NBA for now, however I may add more leagues in the future if the demand is there(since the idea was to specifically have those two leagues). 
 
-## Some Screenshots of the app running on my iPhone
+## Some Screenshots of the app running on my iPhone(it's still not fully developed)
 
 
 
