@@ -8,7 +8,7 @@ The app function is to show news, live scores and standings amongst other things
 
 
 
-![Home page screenshot](home.jpeg)
+![Home page screenshot](home.PNG)
 
 
 
