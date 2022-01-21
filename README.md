@@ -1,4 +1,26 @@
 
+## Varzis
+This is the app I'm currently building as a personal project, I'm planning on publishing it on the appstore when finished, however it's still not done so I will only leave some screenshots of it on my phone for now! 
+
+The app function is to show news, live scores and standings amongst other things. It's focused on the MLB and NBA for now, however I may add more leagues in the future if the demand is there(since the idea was to specifically have those two leagues). 
+
+## Some Screenshots of the app running on my iPhone
+
+
+
+![Home page screenshot](home.jpeg)
+
+
+
+##### 🔨Technologies: Swift, SwiftUI, MVVM Architecture, RestAPI + JSON.
+##### 🚀Platform: 📱iOS, iPad.
+
+
+
+
+
+
+
 ## Alien Raffles
 Alien Raffles turns your iOS device into a raffle automation machine. It allows users to mass enter raffles, helping them win all types of items. It allows for users to import proxies for avoiding ip bans, it also allows thousands of entries simmulatenously to make the user experience as fast and simple as possible.
 
